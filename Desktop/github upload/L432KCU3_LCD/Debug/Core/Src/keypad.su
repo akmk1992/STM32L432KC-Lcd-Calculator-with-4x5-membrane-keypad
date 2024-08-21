@@ -1,0 +1,7 @@
+../Core/Src/keypad.c:49:6:keyPadInit	8	static
+../Core/Src/keypad.c:65:6:checkFirstRow	16	static
+../Core/Src/keypad.c:107:6:checkSecondRow	16	static
+../Core/Src/keypad.c:150:6:checkThirdRow	16	static
+../Core/Src/keypad.c:199:6:checkFourthRow	16	static
+../Core/Src/keypad.c:243:6:checkFifthRow	16	static
+../Core/Src/keypad.c:296:7:detectKeyPressed	16	static
