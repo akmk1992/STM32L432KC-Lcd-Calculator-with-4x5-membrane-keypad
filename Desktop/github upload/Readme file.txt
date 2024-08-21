@@ -14,6 +14,8 @@ STM32L432KC Microcontroller (Nucleo Board)
 16x2 LCD Display
 4x5 Keypad
 Breadboard and Wires
+1 x push button 
+Resistors
 
 Software
 STM32CubeMX for code generation
