@@ -19,14 +19,6 @@ Software
 STM32CubeMX for code generation
 STM32CubeIDE for development and debugging
 
-Setup
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/stm32-calculator.git
-cd stm32-calculator
-Open in STM32CubeIDE:
-
 Import the project and build it.
 Flash and Run:
 
@@ -42,15 +34,11 @@ calculator.c/h: Calculator logic
 
 Challenges & Solutions
 Keypad Debouncing: Implemented software debouncing.
-LCD Flicker: Optimized update routines.
 
-Future Enhancements
-Support for floating point operations
-Memory functions for storing values
 
 License
 MIT License. See LICENSE for details.
 
 Contact
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+
+Email: thantshinarkar@gmail.com
