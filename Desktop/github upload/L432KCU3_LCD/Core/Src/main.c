@@ -108,8 +108,7 @@ void msDelay(uint32_t Delay)
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-	//static uint8_t count = 0;
-	//Dialog1.stringName = {"Hi","How are You?","I'm good" ,"Thank you!","Have a good day",":-)","You too!","See you Soon","See ya :-)","Bye"};
+
 
 	char *string[8] = {"Hello All","I'm Arkar","I'm working on","a simple LCD","Calculator","Project","Thank you!",":-)"};
 
