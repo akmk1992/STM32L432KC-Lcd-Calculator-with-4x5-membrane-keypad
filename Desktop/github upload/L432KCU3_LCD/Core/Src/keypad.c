@@ -50,7 +50,7 @@ void keyPadInit(void){
 
 	deBounceInit(0,'B',0);
 	deBounceInit(6,'A',0);
-	deBounceInit(14,'C',0);
+	deBounceInit(6,'B',0);
 	deBounceInit(1,'B',0);
 }
 
